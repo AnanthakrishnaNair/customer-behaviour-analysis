@@ -211,12 +211,6 @@ than by recommendation systems alone.
 
 ---
 
-## Recommendation Helpfulness vs Shopping Satisfaction
-
-![Heatmap](images/Recommendation_vs_Satisfaction_Heatmap.png)
-
----
-
 # ✅ Results
 
 - Analyzed **800 customer survey responses**.
@@ -247,12 +241,7 @@ pip install -r requirements.txt
 
 # 👨‍💻 Author
 
-**Nandu**
-
-Aspiring Data Analyst | Future AI Engineer
-
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
+**Ananthakrishna Nair**
 
 ---
 
