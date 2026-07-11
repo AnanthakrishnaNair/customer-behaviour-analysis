@@ -1,4 +1,4 @@
-# Amazon Customer Behavior Analysis
+# Customer Behavior Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -68,7 +68,7 @@ Amazon wants to understand:
 # 📁 Project Structure
 
 ```text
-amazon-customer-behavior-analysis/
+customer-behavior-analysis/
 │
 ├── data/
 │   ├── Amazon.csv
